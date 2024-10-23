@@ -1,0 +1,368 @@
+{
+  "status": "OK",
+  "statusCode": 200,
+  "message": "Success",
+  "data": {
+    "appUnderMaintainenceFlag": "0",
+    "component": [
+      {
+        "componentId": "category",
+        "sequenceId": "1",
+        "isActive": "1",
+        "categoryUISettings": {
+          "isShadow": "1",
+          "mediaType": "1",
+          "backgroundMediaData": "#ffffff",
+          "title": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "text": "Product Category",
+            "is_hide": true
+          },
+          "viewAllButton": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "backgroundColor": "#298afc",
+            "text": "View All",
+            "is_hide": true
+          }
+        },
+        "categoryData": {
+          "list": [
+            {
+              "id": "103",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/e/l/electronics.jpg",
+              "title": "Automated Collection",
+              "slug": "automated-collection"
+            },
+            {
+              "id": "230",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/w/a/watches_2.jpg",
+              "title": "Embed Products",
+              "slug": "embed-products"
+            },
+            {
+              "id": "138",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/h/o/homeware.jpg",
+              "title": "Homeware",
+              "slug": ""
+            },
+            {
+              "id": "142",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/f/m/fmcg.jpg",
+              "title": "Hydrogen",
+              "slug": "hydrogen"
+            },
+            {
+              "id": "141",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/c/o/corporate-solutions.jpg",
+              "title": "Others",
+              "slug": "others"
+            },
+            {
+              "id": "139",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/t/b/tbh.jpg",
+              "title": "Home page",
+              "slug": "frontpage"
+            },
+            {
+              "id": "105",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/f/l/flash-deals_1.jpg",
+              "title": "Flash Deals",
+              "slug": ""
+            }
+          ]
+        }
+      },
+      {
+        "componentId": "multipleImageBanner",
+        "sequenceId": "2",
+        "isActive": "1",
+        "multipleImageBannerUISettings": {
+          "isShadow": "1",
+          "mediaType": "1",
+          "backgroundMediaData": "#ffffff",
+          "title": {
+            "font": "2",
+            "textColor": "#000000",
+            "fontSize": "14",
+            "is_hide": true,
+            "position": "lefttop"
+          },
+          "subtitle": {
+            "font": "2",
+            "textColor": "#000000",
+            "fontSize": "12",
+            "is_hide": true,
+            "position": "rightbottom"
+          },
+          "viewAllButton": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "backgroundColor": "#298afc",
+            "text": "View All",
+            "is_hide": true,
+            "position": "leftbottom"
+          }
+        },
+        "multipleImageBannerData": {
+          "list": [
+            {
+              "id": "199",
+              "name": "50-40% OFF",
+              "description": "Now in different colors",
+              "status": "1",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/p/s/ps5_pro_1080x503.jpg",
+              "mobileRedirectType": "product",
+              "mobileRedirectTypeSlug": "all"
+            },
+            {
+              "id": "226",
+              "name": "Xiaomi 14T Series",
+              "description": "",
+              "status": "1",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/1/4/14t-app-banner.jpg",
+              "isSortFilter": "1",
+              "mobileRedirectType": "category",
+              "mobileRedirectTypeSlug": "all"
+            },
+            {
+              "id": "227",
+              "name": "New Bose Quietcomfort Earbuds 24",
+              "description": "",
+              "status": "1",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/b/a/banner-1080-x-503_-_bose_sep_2024.jpg",
+              "isSortFilter": "1",
+              "mobileRedirectType": "category",
+              "mobileRedirectTypeSlug": "all"
+            },
+            {
+              "id": "225",
+              "name": "G-Shock Half Back",
+              "description": "",
+              "status": "1",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/1/0/1080x503_-g-shock_new_arrival.jpg",
+              "isSortFilter": "1",
+              "mobileRedirectType": "category",
+              "mobileRedirectTypeSlug": "all"
+            }
+          ]
+        }
+      },
+      {
+        "componentId": "singleImageBanner",
+        "sequenceId": "2",
+        "isActive": "1",
+        "singleImageBannerUISettings": {
+          "isShadow": "1",
+          "mediaType": "1",
+          "backgroundMediaData": "#ffffff",
+          "title": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "is_hide": true,
+            "position": "lefttop"
+          },
+          "subtitle": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "is_hide": true,
+            "position": "lefttop"
+          },
+          "viewAllButton": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "backgroundColor": "#298afc",
+            "text": "View All",
+            "is_hide": true,
+            "position": "lefttop"
+          }
+        },
+        "singleImageBannerData": {
+          "list": [
+            {
+              "id": "199",
+              "name": "PS5 Pro - Pre Order",
+              "description": "",
+              "status": "1",
+              "image": "https://www.ashrafsbahrain.com/pub/media/elements/p/s/ps5_pro_1080x503.jpg",
+              "mobileRedirectType": "category",
+              "mobileRedirectTypeSlug": "all"
+            }
+          ]
+        }
+      },
+      {
+        "componentId": "fourImageComponent",
+        "sequenceId": "6",
+        "isActive": "1",
+        "fourImageComponentUISettings": {
+          "isShadow": "1",
+          "mediaType": "1",
+          "backgroundMediaData": "#ffffff",
+          "title": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "text": "New Arrivals",
+            "is_hide": true,
+            "position": "righttop"
+          },
+          "viewAllButton": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "backgroundColor": "#298afc",
+            "text": "View All",
+            "is_hide": true,
+            "position": "righttop"
+          },
+          "productName": {
+            "textColor": "#212121",
+            "font": "1",
+            "fontSize": "16",
+            "position": "righttop"
+          },
+          "price": {
+            "textColor": "#666666",
+            "font": "2",
+            "fontSize": "14",
+            "is_hide": true,
+            "position": "righttop"
+          },
+          "discountPrice": {
+            "textColor": "#e6201a",
+            "font": "2",
+            "fontSize": "14",
+            "is_hide": true,
+            "position": "righttop"
+          }
+        },
+        "fourImageComponentData": {
+          "list": [
+            {
+              "id": "11744",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/x/a/xaiomi_sda_new_product_2_.jpg",
+              "title": "Xiaomi | Robot Vacuum S10+ UK",
+              "price": "179.900 BHD",
+              "discountedPrice": "119.900 BHD",
+              "slug": "dummy-product-1"
+            },
+            {
+              "id": "12261",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/d/j/dji_osmo_pocket_3_1.jpg",
+              "title": "DJI | Osmo Pocket 3",
+              "price": "240.000 BHD",
+              "discountedPrice": "",
+              "slug": "dummy-product-1"
+            },
+            {
+              "id": "13004",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/n/i/nikon_z6_iii.jpg",
+              "title": "Nikon | Z6 III | Mirrorless Camera | Body",
+              "price": "1098.900 BHD",
+              "discountedPrice": "999.900 BHD",
+              "slug": "dummy-product-1"
+            },
+            {
+              "id": "13068",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/s/s/ssi0860gd_3_.jpg",
+              "title": "Sencor | Hand Held Garment Steamer | SSI0860GD | 1600 W",
+              "price": "16.900 BHD",
+              "discountedPrice": "",
+              "slug": "dummy-product-1"
+            }
+          ]
+        }
+      },
+      {
+        "componentId": "twoImageComponent",
+        "sequenceId": "6",
+        "isActive": "1",
+        "twoImageComponentUISettings": {
+          "isShadow": "1",
+          "mediaType": "1",
+          "backgroundMediaData": "#ffffff",
+          "title": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "text": "Deal Of the Day",
+            "is_hide": true,
+            "position": "rightbottom"
+          },
+          "viewAllButton": {
+            "font": "2",
+            "textColor": "#ffffff",
+            "fontSize": "12",
+            "backgroundColor": "#298afc",
+            "text": "View All",
+            "is_hide": true,
+            "position": "rightbottom"
+          },
+          "productName": {
+            "textColor": "#212121",
+            "font": "1",
+            "fontSize": "16",
+            "position": "rightbottom"
+          },
+          "price": {
+            "textColor": "#666666",
+            "font": "2",
+            "fontSize": "14",
+            "position": "rightbottom"
+          },
+          "discountPrice": {
+            "textColor": "#e6201a",
+            "font": "2",
+            "fontSize": "14",
+            "is_hide": true,
+            "position": "rightbottom"
+          }
+        },
+        "twoImageComponentData": {
+          "list": [
+            {
+              "id": "11744",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/x/a/xaiomi_sda_new_product_2_.jpg",
+              "title": "Xiaomi | Robot Vacuum S10+ UK",
+              "price": "179.900 BHD",
+              "discountedPrice": "119.900 BHD",
+              "slug": "dummy-product-1"
+            },
+            {
+              "id": "12261",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/d/j/dji_osmo_pocket_3_1.jpg",
+              "title": "DJI | Osmo Pocket 3",
+              "price": "240.000 BHD",
+              "discountedPrice": "",
+              "slug": "dummy-product-1"
+            },
+            {
+              "id": "13004",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/n/i/nikon_z6_iii.jpg",
+              "title": "Nikon | Z6 III | Mirrorless Camera | Body",
+              "price": "1098.900 BHD",
+              "discountedPrice": "999.900 BHD",
+              "slug": "dummy-product-1"
+            },
+            {
+              "id": "13068",
+              "image": "https://www.ashrafsbahrain.com/media/catalog/product/cache/ca8f87c0af7e15063c08fd15229396e2/s/s/ssi0860gd_3_.jpg",
+              "title": "Sencor | Hand Held Garment Steamer | SSI0860GD | 1600 W",
+              "price": "16.900 BHD",
+              "discountedPrice": "",
+              "slug": "dummy-product-1"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
